@@ -1,6 +1,5 @@
 import random
 
-
 class Toyta:
     def __init__(self, name, wheel, seat, headlights, mirror):
         self.name = name
