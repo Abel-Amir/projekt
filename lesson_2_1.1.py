@@ -48,3 +48,4 @@ class Car:
 car_1 = Car(brand="BMW", color="black", year=2021, country="Germany", amount_passenger=4, max_speed=360, type_car="Crossover", engine=6.0, mechanic="Nope")
 print(car_1)
 print(car_1.tunning(80000))
+print('hello')
